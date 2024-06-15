@@ -2,7 +2,7 @@
 
 
 * 💻 I’m currently working on Damped vibration experiment
-* 🎓 I’m currently learning  reinforcement learning
+* 🎓 I’m currently learning  reinforcement learning / resolution enhancement
 - 📫 How to reach me: shiduyule@163.com
 
 
